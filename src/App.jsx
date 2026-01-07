@@ -18,7 +18,7 @@ export default function App() {
         <section className="card">
           <h2>À propos</h2>
           <p>
-            Je m’appelle Alexandren, j’étudie à l'université Marie et Louis Pasteur de Besançon.
+            Je m’appelle Alexandre, j’étudie à l'université Marie et Louis Pasteur de Besançon.
           </p>
         </section>
 
